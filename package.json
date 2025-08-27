@@ -1,0 +1,9 @@
+{
+  "name": "deno-node",
+  "scripts": {
+    "test": "tsx test.js"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.5"
+  }
+}
